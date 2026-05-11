@@ -48,6 +48,9 @@ Replaces the page that will not be used for the longest duration in the future.
 
 ```bash
 .
+├── images
+        └── home.png
+        └── simulation.png  
 ├── OsfinalProject.html
 ├── settings.json
 └── README.md
@@ -110,8 +113,8 @@ It is especially useful for:
 Add screenshots of the simulator here.
 
 ```markdown
-![Home Screen](./images/home.png)
-![Simulation](./images/simulation.png)
+![Home Screen](images/home.png)
+![Simulation](images/simulation.png)
 ```
 
 ---
