@@ -143,8 +143,7 @@ Add screenshots of the simulator here.
 
 ## Author
 
-**Arya**
-
+**Arya Mishra**
 AI Developer
 
 ---
