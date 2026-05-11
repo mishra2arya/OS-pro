@@ -141,14 +141,6 @@ Add screenshots of the simulator here.
 
 ---
 
-## Author
-
-**Arya Mishra**
-
-AI Developer | Open-source contributer
-
----
-
 ## License
 
 This project is for educational and academic purposes.
