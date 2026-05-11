@@ -110,8 +110,8 @@ It is especially useful for:
 Add screenshots of the simulator here.
 
 ```markdown
-![Home Screen](images/home.png)
-![Simulation](images/simulation.png)
+![Home Screen](./images/home.png)
+![Simulation](./images/simulation.png)
 ```
 
 ---
